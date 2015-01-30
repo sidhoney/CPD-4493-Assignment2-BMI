@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BMI Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="engRadio">English</string>
+    <string name="metRadio">Metric</string>
+    <string name="weight">Enter Weight</string>
+    <string name="heightLabel">Enter Height</string>
+    <string name="calResult">Calculate</string>
+    <string name="resultAns"></string>
+    <string name="resultstmt"></string>
+
+</resources>
